@@ -203,6 +203,8 @@ hr {
     color: #fafafa;
 }
 
+/* footer */
+
 footer {
     height: 150px;
 }
@@ -221,6 +223,8 @@ footer {
     padding: 5%;
     color: #3a3a3a;
 }
+
+/* gallery */
 
 #photos {
     clear: both;
